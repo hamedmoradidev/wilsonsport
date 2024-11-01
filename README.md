@@ -7,7 +7,7 @@ wilsonsport project coded by our group
 
 Demo 🚀 
 
-[wilsonsport] https://hamedmoradidev.github.io/wilsonsport/
+https://hamedmoradidev.github.io/wilsonsport/
 
 ## Developers 👨‍💻
 
